@@ -1,0 +1,23 @@
+
+/* .luffybtn{
+    color: white;
+    background-color: blueviolet;
+    border-radius: 20px;
+    width: 8%;
+    border: 1px solid blueviolet;
+} */
+
+
+
+.ar{
+    color: green;
+    background-color: white;
+    border: 1px solid white;
+
+}
+
+
+
+:hover.ar{
+    color: brown;
+}
